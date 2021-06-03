@@ -1,0 +1,10 @@
+.bencao {
+  color: bisque;
+  background-color: red;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+body {
+  background-color: black;
+}
